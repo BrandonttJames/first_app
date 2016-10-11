@@ -2,4 +2,4 @@
 
 This is the first application for the
 [*Ruby on Rails Tutorial*](http://railstutorial.org/)
-by [Michael Hartl](http://michaelhartl.com/).
+by [Brandon James](https://github.com/BrandonttJames/first_app).
